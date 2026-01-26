@@ -1,0 +1,20 @@
+name: dsa-tracker
+
+services:
+  db:
+    image: postgres:16
+    container_name: dsa_postgres
+    env_file:
+      - .env
+    ports:
+      - "${POSTGRES_PORT}:5432"
+    volumes:
+      - dsa_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  dsa_pgdata:
