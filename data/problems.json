@@ -1,0 +1,32 @@
+{
+  "chapters": [
+    {
+      "id": "two-pointers",
+      "title": "Two Pointers",
+      "order": 1,
+      "problems": [
+        {
+          "id": "pair-sum-sorted",
+          "title": "Pair Sum - Sorted",
+          "difficulty": "easy",
+          "tags": [],
+          "solutionRef": ""
+        },
+        {
+          "id": "triplet-sum",
+          "title": "Triplet Sum",
+          "difficulty": "medium",
+          "tags": [],
+          "solutionRef": ""
+        },
+        {
+          "id": "is-palindrome-valid",
+          "title": "Is Palindrome Valid",
+          "difficulty": "easy",
+          "tags": [],
+          "solutionRef": ""
+        }
+      ]
+    }
+  ]
+}
