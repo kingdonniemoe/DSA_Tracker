@@ -25,6 +25,69 @@
           "difficulty": "easy",
           "tags": [],
           "solutionRef": ""
+        },
+        {
+          "id": "largest-container",
+          "title": "Largest Container",
+          "difficulty": "medium",
+          "tags": [],
+          "solutionRef": ""
+        },
+        {
+          "id": "shift-zeroes-to-end",
+          "title": "Shift Zeroes to the End",
+          "difficulty": "easy",
+          "tags": [],
+          "solutionRef": ""
+        },
+        {
+          "id": "next-lexicographical-sequence",
+          "title": "Next Lexicographical Sequence",
+          "difficulty": "medium",
+          "tags": [],
+          "solutionRef": ""
+        }
+      ]
+    },
+    {
+      "id": "hashmap-and-sets",
+      "title": "Hashmaps and Sets",
+      "order": 2,
+      "problems": [
+        {
+          "id": "pair-sum-unsorted",
+          "title": "Pair Sum - Unsorted",
+          "difficulty": "easy",
+          "tags": [],
+          "solutionRef": ""
+        },
+        {
+          "id": "verify-sudoku board",
+          "title": "Verify Sudoku Board",
+          "difficulty": "medium",
+          "tags": [],
+          "solutionRef": ""
+        },
+        {
+          "id": "zero-striping",
+          "title": "Zero striping",
+          "difficulty": "medium",
+          "tags": [],
+          "solutionRef": ""
+        },
+        {
+          "id": "longest-chain-of-consecutive-numbers",
+          "title": "Longest chain of Consecutive Numbers",
+          "difficulty": "medium",
+          "tags": [],
+          "solutionRef": ""
+        },
+        {
+          "id": "geometric-sequence-triplets",
+          "title": "Geometric Sequence Triplets",
+          "difficulty": "medium",
+          "tags": [],
+          "solutionRef": ""
         }
       ]
     }
