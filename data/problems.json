@@ -90,6 +90,21 @@
           "solutionRef": ""
         }
       ]
+    },
+    {
+      "id": "linked-lists",
+      "title": "Linked lists",
+      "order": 3,
+      "problems": [
+        {
+          "id": "linked-lists-reversal",
+          "title": "Linked lists reversal",
+          "difficulty": "easy",
+          "tags": [],
+          "solutionRef": ""
+        },
+        {}
+      ]
     }
   ]
 }
